@@ -1,0 +1,10 @@
+This is the repository for any hackersrg-related code. For more details on
+hackersrg, visit http://www.hackersrg.com/.
+
+Code is in the following format:
+
+[book-name]/[username]/[code]
+
+...where [book-name] is an indicator of the book, [username] is an indicator of
+the hackersrg member who's contributed code, and [code] is, well, the code. At
+that point code should be structured to personal preference.
